@@ -22,7 +22,7 @@ Cut out with scissors, or a craft knife, and apply.
 
 Second cutting method using a laser:
 
-You can use the image to create a mask for a laser cutter - This is not really recommended as the Vinyl labels shoudl not be used on a laser cuter but I used one as I have plenty of ventilation.
+You can use the image to create a mask for a laser cutter - This is not really recommended as the Vinyl labels should not be used on a laser cutter but I used one as I have plenty of ventilation.
 
 Trace the image in Lightburn
 
